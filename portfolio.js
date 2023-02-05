@@ -213,34 +213,34 @@ export const experience = [
   {
     role: 'Senior Software Engineer',
     company: 'JOOR',
-    companylogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Apr 2022 – Jun 2022',
-    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
+    companylogo: '/img/icons/common/Joor.png',
+    date: 'Apr 2021 – Dec 2022',
+    desc: 'I worked as Senior Software Engineer to design web based admin dashboards for mulitple apps using Django,React,and some other libraries.Spearheaded the JOOR Pay implementation, which brands can accept multiple forms of payment across 135 currencies and receive payments quickly while qualified retailers benefit from 60-day net terms.Conducted backlog grooming sessions and handled writing business requirements and technical assumptions.Overhauled the React dashboard app and introduced several layers of abstractions for services, views and models to reduce duplicate code.Built a UI component library using storybook and ant design which significantly boosted the team velocity and consistency.',
   },
   {
-    role: 'API Engineer',
-    company: 'Duseca Software',
-    companylogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Jan 2022 – Mar 2022',
-    desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
+    role: 'Fullstack Engineer',
+    company: 'Lumina',
+    companylogo: '/img/icons/common/Lumina.png',
+    date: 'Jan 2019 – Mar 2021',
+    desc: 'I worked as Fullstack Engineer on a App. Rapidly built an elegant and reliable customer facing web portal for order and delivery of custom videos. Rebuilt admin portal including fully featured file management system utilizing third party storage. Implemented Prisma + Nexus + Apollo GraphQL structure for rapid full-stack development. Quickly learned and made large scale contributions to Lumina’s property video creation engine. Adjusted task priority to meet moving needs, consistently exceeding stakeholder expectations for speed  from  request to delivery. Provided and received specific constructive feedback through PR reviews and open dialog with other engineers.',
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     // ],
   },
   {
-    role: 'Full Stack Developer',
-    company: 'Bleed-AI',
-    companylogo: '/img/icons/common/bleedAI.jpg',
-    date: 'Sept 2021 - Oct 2021',
-    desc: 'Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
+    role: 'Software Engineer',
+    company: 'Ideamrket',
+    companylogo: '/img/icons/common/ideamarket.jpg',
+    date: 'Oct 2016 - Dec 2018',
+    desc: 'Worked as Software Engineer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
   },
   {
-    role: 'Backend Developer',
-    company: 'Wapidu',
-    companylogo: '/img/icons/common/wapidu.jpg',
-    date: 'Sept 2021',
-    desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
+    role: 'Fullstack Engineer',
+    company: 'Six Feet Up,Inc',
+    companylogo: '/img/icons/common/sixFeetUp.jpg',
+    date: 'Jan 2015 - Sep 2016',
+    desc: 'Worked as a Fullstack Engineer to integrate Stripe payment gateway in SixFeetUp and Created REST APIs using Django REST Framework to integrate Django Stripe backend to ReactJS Frontend and Deployed it on Azure based Docker container registry.',
   },
 ];
 
@@ -248,23 +248,23 @@ export const projects = [
   {
     name: 'developer-portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/1hanzla100/developer-portfolio',
-    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
+    github: 'https://github.com/rlmathguru/MyRortfolioSite',
+    link: '#',
   },
   {
     name: 'AtlasMart',
     desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
+    github: '#',
   },
   {
     name: 'Technota (Forum)',
     desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/1hanzla100/django-react-forum',
+    github: '#',
   },
   {
     name: 'Shopaza (Ecommerce)',
     desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/1hanzla100/Django-ecommerce',
+    github: '#',
   },
 ];
 
@@ -286,19 +286,18 @@ export const showContactUs = true;
 
 // See object prototype on SEO.jsx page
 export const seoData = {
-  title: 'Hanzla Tauqeer',
-  description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  title: 'Chris Martin',
+  description: 'A passionate Fullstack and Machine Learning Engineer.',
+  author: 'Christopher',
+  image: '#',
+  url: '#',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Christopher',
+    'Christopher Martin',
+    'Christopher',
+    'Chris Martin',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Chris  Portfolio ',
+    'Chirstopher Martin Portfolio',
   ],
 };

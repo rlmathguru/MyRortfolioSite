@@ -1,5 +1,3 @@
-import emoji from 'react-easy-emoji';
-
 export const greetings = {
   name: 'Christopher Martin',
   title: "Hi all, I'm Christopher",
@@ -32,11 +30,9 @@ export const skillsSection = {
       title: 'Full Stack Development',
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji(
-          '⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js'
-        ),
-        emoji('⚡ Building responsive static websites using Next.js'),
-        emoji('⚡ Building RESTful APIs in Django & Django REST Framework'),
+        '⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js',
+        '⚡ Building responsive static websites using Next.js',
+        '⚡ Building RESTful APIs in Django & Django REST Framework',
       ],
       softwareSkills: [
         {
@@ -86,13 +82,10 @@ export const skillsSection = {
       title: 'Cloud Infra-Architecture',
       lottieAnimationFile: '/lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji('⚡ Experience of working on multiple cloud platforms'),
-        emoji(
-          '⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases'
-        ),
-        emoji(
-          '⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions'
-        ),
+        '⚡ Experience of working on multiple cloud platforms',
+
+        '⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases',
+        '⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions',
       ],
       softwareSkills: [
         // ? Check README To get icon details
@@ -142,17 +135,13 @@ export const skillsSection = {
       title: 'Machine Learning',
       lottieAnimationFile: '/lottie/skills/ethereum.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji('⚡ Experience in developing ChatBot using NLP and GPT-3'),
-        emoji(
-          '⚡ Building Scripts for predict BigData using PySpark,LSTM and Numpy'
-        ),
-        emoji(
-          '⚡  Experience of using OpenCV , Tensorflow and Pytorch module.'
-        ),
-        emoji('⚡ Developing NFT Smart Contracts using ERC-721 Token Standard'),
-        emoji(
-          '⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS'
-        ),
+        '⚡ Experience in developing ChatBot using NLP and GPT-3',
+
+        '⚡ Building Scripts for predict BigData using PySpark,LSTM and Numpy',
+        '⚡  Experience of using OpenCV , Tensorflow and Pytorch module.',
+        '⚡ Developing NFT Smart Contracts using ERC-721 Token Standard',
+
+        '⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS',
       ],
       softwareSkills: [
         {

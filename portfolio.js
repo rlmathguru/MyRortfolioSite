@@ -186,7 +186,7 @@ export const SkillBars = [
 
 export const educationInfo = [
   {
-    schoolName: 'Indiana University',
+    schoolName: 'Southern Illinois University Edwardsville',
     subHeader: "Bachelor's of Science in Computer Science",
     duration: 'Sep 2008 - May 2019',
     desc: 'Participated in the research of ACM and published 3 papers.',
@@ -204,14 +204,14 @@ export const experience = [
     company: 'JOOR',
     companylogo: '/img/icons/common/Joor.png',
     date: 'Apr 2021 – Dec 2022',
-    desc: 'I worked as Senior Software Engineer to design web based admin dashboards for mulitple apps using Django,React,and some other libraries.Spearheaded the JOOR Pay implementation, which brands can accept multiple forms of payment across 135 currencies and receive payments quickly while qualified retailers benefit from 60-day net terms.Conducted backlog grooming sessions and handled writing business requirements and technical assumptions.Overhauled the React dashboard app and introduced several layers of abstractions for services, views and models to reduce duplicate code.Built a UI component library using storybook and ant design which significantly boosted the team velocity and consistency.',
+    desc: 'I worked as Senior Software Engineer to design web based admin dashboards for multiple apps using Django,React,and some other libraries.Built several data pipelines for the data analytics projects and deployed several ML models with GCP, BigQuery, VertexAI. It combines the functional and object-oriented paradigms, developed multi-threaded applications, web services, and distributed systems using Scala. Developed, designed and deployed web applications for high traffic, e-commerce websites.Designed and implemented scalable and extensible software components.Developed and maintained web services using SOAP and REST APIs.',
   },
   {
     role: 'Fullstack Engineer',
     company: 'Lumina',
     companylogo: '/img/icons/common/Lumina.png',
     date: 'Jan 2019 – Mar 2021',
-    desc: 'I worked as Fullstack Engineer on a App. Rapidly built an elegant and reliable customer facing web portal for order and delivery of custom videos. Rebuilt admin portal including fully featured file management system utilizing third party storage. Implemented Prisma + Nexus + Apollo GraphQL structure for rapid full-stack development. Quickly learned and made large scale contributions to Lumina’s property video creation engine. Adjusted task priority to meet moving needs, consistently exceeding stakeholder expectations for speed  from  request to delivery. Provided and received specific constructive feedback through PR reviews and open dialog with other engineers.',
+    desc: 'I worked as Fullstack Engineer on a App. Developed and implemented full-stack production applications using Typescript, Node.js, Express, and AWS. Collaborated with product managers, designers, and other engineers to plan, design, and deliver products. Managed and maintained AWS services, including EC2, S3, and ElastiCache, for improved user experience and scalability. Provided support for development and production environments, troubleshooting issues and resolving them in a timely manner. Optimized application code and database queries for performance improvement .',
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",

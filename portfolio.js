@@ -259,9 +259,9 @@ export const projects = [
 
 export const feedbacks = [
   {
-    name: 'John Smith',
+    name: 'Olga',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'Thank you for your hard work on this project. We appreciate the time and effort you put into developing the software and making sure it was up to our standards. Your attention to detail and commitment to the job were greatly appreciated. We look forward to working with you again in the future.',
   },
   {
     name: 'John Smith',
